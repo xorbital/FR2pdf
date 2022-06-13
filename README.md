@@ -31,6 +31,7 @@ export OPENSSL_CONF="$(pwd)/ssl_conf"
 Nun sollte FR2Pdf in der selben Terminalsitzung keine Probleme mehr verursachen.
 
 Falls du diese 2 Schritte automatisieren kannst und mit in FR2Pdf.py packen kannst, würde ich mich über einen PR sehr freuen :)
+Siehe: [Issue #1](https://github.com/xorbital/FR2pdf/issues/1)
 
 ### Kommandozeile
 ```text
