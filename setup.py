@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP_NAME = 'SZ2pdf'
+APP_NAME = 'FR2pdf'
 
 setup(
     name=APP_NAME,
