@@ -69,5 +69,5 @@ Folgende Versionen der Zeitung können angegeben werden:
 ### Änderungen im Vergleich zu SZ2Pdf
 - Die URLs zum Anmelden und herunterladen sind etwas anders
 - Die Login-Felder sind anders benannt
-- Die robots.txt verhindert ein automatisches Herunterladen, daher wurde das lesen ebendieser deaktiviert.
+- Die robots.txt würde ein automatisches Herunterladen verhindern, daher wird mechanize sie ignorieren.
 - Ab 3 Logins gibt es Fehlermeldungen wegen der Anzahl gleichzeitiger Sitzungen, diese beendet FR2Pdf automatisch.
