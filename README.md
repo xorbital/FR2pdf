@@ -5,7 +5,7 @@ Dieses Tool soll dabei helfen, immer die neueste Ausgabe der [Frankfurter Rundsc
 Wenn man sich über die Website einloggen muss, sind es leider nervig viele Klicks, bis man zum eigentlichen Download kommt.
 Das geht jetzt einfacher!
 
-Zwingend erforderlich ist dafür natürlich ein Account und Abo bei der Süddeutschen Zeitung, sodass du den Zugriff auf das ePaper hast.
+Zwingend erforderlich ist dafür natürlich ein Account und Abo bei der Frankfurter Rundschau, sodass du den Zugriff auf das ePaper hast.
 
 ## Installation
 Mit `pip` installieren:
